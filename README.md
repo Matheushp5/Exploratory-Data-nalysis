@@ -1,6 +1,6 @@
-# Exploratory-Data-nalysis
-Here I created a project as an example on how to perform EDA and some techniques.
+# Exploratory-Data-Analysis
+Here I share some projects where I applied EDA and some other techniques.
 
-The whole file is in a Jupyter Notebook using Python Kernnel.
+The files are Jupyter Notebooks using Python Kernnel.
 
 The purpose of this project is purely educational focused on Data Science.
